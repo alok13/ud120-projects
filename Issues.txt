@@ -1,0 +1,19 @@
+TypeError: a bytes-like object is required, not 'str'
+
+Number of stopwords are changed from 127 to 179 (On 12th Nov 2019)
+
+module 'string' has no attribute 'maketrans'
+
+translate() takes exactly one argument (2 given) python 3
+	USE str.maketrans("", "",string.punctuation) 
+
+
+ No such file or directory: '..\\maildir/hodge-j/del
+
+
+No module named 'sklearn.cross_validation'
+	from sklearn.model_selection import train_test_split
+
+sklearn-0-20-2-import-error-with-randomizedpca
+	from sklearn.decomposition import PCA
+	PCA(n_components=n_components,svd_solver='randomized', whiten=True)
